@@ -102,3 +102,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+./my_mini2.ipybn
